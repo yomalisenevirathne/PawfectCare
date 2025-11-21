@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PetCare">
+        <activity
+            android:name=".MainActivity_11"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity_05"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity_10"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity_09"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity_01"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity_08"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity_02"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity_07"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity_06"
+            android:exported="false" /> <!-- Launcher activity -->
+        <activity
+            android:name=".MainActivity_00"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity> <!-- Other activities (no intent-filter needed) -->
+        <activity
+            android:name=".MainActivity_03"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity_04"
+            android:exported="false" />
+    </application>
+
+</manifest>

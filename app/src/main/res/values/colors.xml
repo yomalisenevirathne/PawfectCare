@@ -1,0 +1,28 @@
+<resources>
+    <!-- Brand / Primary (pink) -->
+    <color name="pink_500">#E91E63</color>
+    <color name="pink_700">#C2185B</color>
+    <color name="pink_accent_dark">#C2185B</color>  <!-- used in profile header text -->
+
+    <!-- Translucent pinks you used in layouts -->
+    <color name="pink_56_alpha">#91E91E63</color>  <!-- matches #91E91E63 -->
+    <color name="pink_32_alpha">#52E91E63</color>  <!-- matches #52E91E63 -->
+
+    <!-- Secondary brand (purple header) -->
+    <color name="purple_600">#C2185B</color>
+    <color name="purple_700">#C2185B</color>
+
+    <!-- Accent for “Book” buttons -->
+    <color name="rose_accent">#FF577F</color>
+
+    <!-- App surfaces & text -->
+    <color name="bg_light">#F5F5F5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#7A7A7A</color>
+
+    <!-- Dividers / strokes -->
+    <color name="divider_12">#1F000000</color>      <!-- 12% black -->
+    <color name="stroke_gray">#BDBDBD</color>
+</resources>

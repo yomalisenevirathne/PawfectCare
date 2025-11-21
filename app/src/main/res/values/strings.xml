@@ -1,0 +1,104 @@
+<resources>
+
+        <!-- App -->
+        <string name="app_name">PawfectCare</string>
+
+        <!--screen 0-->
+        <string name="your_pet_s_digital_profile_at_your_fingertip">Your Pet\'s Digital Profile at your fingertip !</string>
+        <string name="next">Next</string>
+
+        <!-- Screen 1 (splash / welcome) -->
+        <string name="pawfectcare">PawfectCare</string>
+        <string name="make_your_bonding_relationship_between_pets_and_humans">Make Your Bonding Relationship Between Pets and Humans</string>
+        <string name="get_start">GET START</string>
+
+        <!-- Screen 2 (choose auth) -->
+        <string name="sign_up">SIGN UP</string>
+        <string name="login">LOGIN</string>
+
+        <!-- Screen 3 (register) -->
+        <string name="enter_your_name">Enter your Name</string>
+        <string name="enter_password">Enter Password</string>
+        <string name="re_enter_your_password">Re-Enter your password</string>
+        <string name="enter_your_email_address">Enter your Email Address</string>
+
+        <!-- Screen 4 (login form) -->
+        <string name="user_name">User Name</string>
+        <string name="password">Password</string>
+        <string name="forgot_password_recover_it">Forgot Password? Recover it</string>
+        <string name="or_log_in_with">| Or Log in with |</string>
+
+        <!-- Home (screen 5) -->
+        <string name="welcom_back_yomali">Welcom Back, Yomali</string>
+        <string name="book_an_appointment">Book an Appointment</string>
+        <string name="add_a_pet">Add a Pet</string>
+        <string name="search_pets_or_vets">Search pets or vets</string>
+
+        <!-- Appointments (screen 6) -->
+        <string name="book">Book</string>
+        <string name="name_dr_daniel">Name : Dr.Daniel</string>
+        <string name="_8_00_a_m_6_00_p_m">8.00 A.M - 6.00 P.M</string>
+        <string name="name_dr_fathima">Name : Dr.Fathima</string>
+        <string name="_9_00_a_m_4_30_p_m">9.00 A.M - 4.30 P.M</string>
+        <string name="name_dr_jenny">Name : Dr.Jenny</string>
+        <string name="_10_30_a_m_8_00_p_m">10.30 A.M - 8.00 P.M</string>
+        <string name="name_dr_wotson">Name : Dr.Wotson</string>
+        <string name="_12_00_p_m_9_00_p_m">12.00 P.M - 9.00 P.M</string>
+        <string name="name_dr_jimmy">Name : Dr.Jimmy</string>
+        <string name="_1_30_p_m_10_00_p_m">1.30 P.M - 10.00 P.M</string>
+
+
+        <!-- Add Pet (screen 7) -->
+        <string name="add_pet">Add Pet</string>
+        <string name="_1_what_is_the_name_of_your_pet">1. What is the name of your pet?</string>
+        <string name="_4_what_gender_is_your_pet">4. What gender is your pet?</string>
+        <string name="save">SAVE</string>
+        <string name="_2_what_kind_of_pet_it_is">2. What kind of pet it is?</string>
+        <string name="_3_what_breed_is_your_pet">3. What breed is your pet?</string>
+
+        <!-- Profile (screen 8) -->
+        <string name="profile">Profile</string>
+        <string name="yomali_senevirathne">Yomali Senevirathne</string>
+        <string name="yomalisene_gmail_com">yomalisene@gmail.com</string>
+        <string name="notifications">Notifications</string>
+        <string name="personal">Personal</string>
+        <string name="calendar">Calendar</string>
+        <string name="general">General</string>
+        <string name="help">Help</string>
+        <string name="log_out">Log out</string>
+
+        <!-- Booked (screen 9) -->
+        <string name="your_appointment_has_been_booked">Your Appointment has been booked !</string>
+        <string name="back_to_home">Back to home</string>
+
+        <!-- pet card(screen 10) -->
+        <string name="back">back</string>
+        <string name="pet_card">PET CARD</string>
+        <string name="bruno">Bruno</string>
+        <string name="weight_6kg">Weight : 6kg</string>
+        <string name="gender_male">Gender : Male</string>
+        <string name="allergies_none">Allergies : None</string>
+        <string name="zeeba">Zeeba</string>
+        <string name="weight_3kg">Weight : 3kg</string>
+        <string name="cheeto">cheeto</string>
+        <string name="weight_4kg">Weight : 4kg</string>
+        <string name="gender_female">Gender : Female</string>
+        <string name="allergies_peanuts">Allergies : Peanuts</string>
+        <string name="ralph">Ralph</string>
+        <string name="weight_7kg">Weight : 7kg</string>
+        <string name="allergies_milk">Allergies : Milk</string>
+        <string name="kitty">Kitty</string>
+        <string name="weight_2kg">Weight : 2kg</string>
+        <string name="dusty">Dusty</string>
+        <string name="weight_8kg">Weight : 8kg</string>
+
+        <!-- payment(screen 11) -->
+        <string name="card_number">card_number\n</string>
+        <string name="name_on_card">Name on Card</string>
+        <string name="expiry_date">Expiry Date</string>
+        <string name="code">Code</string>
+        <string name="credit_card_number">Credit card number</string>
+        <string name="pay_now">PAY NOW</string>
+        <string name="payments">PAYMENTS</string>
+
+</resources>

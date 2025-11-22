@@ -1,32 +1,33 @@
-# 🐾 PawfectCare
+# PawfectCare - Pet Management App
 
-**PawfectCare** is a comprehensive mobile application designed to make pet parenting easier and more organized. It serves as a personal assistant for pet owners, helping them track their pets' health, daily routines, and medical history in one place.
+PawfectCare is an Android mobile application that helps you easily manage all the health and administrative needs of your beloved pets from a single place. It simplifies tasks such as saving pet information, booking veterinary appointments, and making payments.
 
----
-
-## 📱 Project Overview
-
-Managing a pet's daily needs can be challenging. **PawfectCare** solves this by providing a centralized platform to manage pet profiles, schedule reminders for vaccinations and feeding, and track overall wellness. Whether you are a new pet parent or an experienced one, PawfectCare ensures your furry friend gets the best care possible.
-
----
 
 ## ✨ Key Features
 
-*   **🐶 Pet Profiles:** Create and manage detailed profiles for multiple pets (Name, Breed, Age, Weight).
-*   **📅 Reminders & Scheduling:** Set alarms for feeding, walking, grooming, and medication.
-*   **💉 Health & Vaccination Tracker:** Keep a digital record of vaccination history and upcoming vet appointments.
-*   **🩺 Vet & Clinic Locator:** Easily find nearby veterinary clinics and pet shops. *(If applicable)*
+*   **User Authentication:**
+    *   Sign up and log in using an email and password.
+    *   Option to log in via Google and Facebook social accounts.
 
----
+*   **Pet Profile Management:**
+    *   Easily add new pets to your profile.
+    *   Maintain a "Pet Card" for each pet with essential information like name, species, gender, and allergies.
+
+*   **Appointment Booking:**
+    *   Select a preferred date for appointments using a calendar view.
+    *   View available veterinarians and their schedules to book appointments conveniently.
+    *   Receive confirmation after successfully booking an appointment.
+
+*   **Online Payments:**
+    *   Securely make payments for booked appointments using a credit card.
+
+*   **User Profile:**
+    *   Manage personal information and other account settings.
 
 ## 🛠️ Tech Stack
 
-*   **Language:** [Kotlin]
-*   **Architecture:** [MVVM]
-*   **UI Components:** Material Design
-*   **Version Control:** Git & GitHub
-
-
+*   **Programming Language:** Kotlin
+*   **IDE:** Android Studio
 
 ---
 *Made with ❤️ for Pets* 🐾
